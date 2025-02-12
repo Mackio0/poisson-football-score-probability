@@ -33,7 +33,7 @@ This project uses a Poisson model to predict football match outcomes based on hi
 
 ```bash
 
-	pip install -r requirements.txt
+pip install -r requirements.txt
 
 ```
 
@@ -41,7 +41,7 @@ This project uses a Poisson model to predict football match outcomes based on hi
 
 ```bash
 
-	python3 main.py
+python3 main.py
 
 ```
 
